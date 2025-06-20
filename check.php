@@ -1,3 +1,5 @@
 <?php
 
-echo "check the file updated from sub branch rubeshdev friday 12.40";
+echo "check the file updated from sub branch rubeshdev";
+echo "update from master 12.38";
+echo "update from rubesh 12.42";
